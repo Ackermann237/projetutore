@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/back-icon-mask.png",
+      "sha1": "ffdc4ed473b2be2806e99d0f680d1d2e9fe00e56"
+    },
+    {
+      "path": "src/assets/back-icon.png",
+      "sha1": "185ebe3c181b720dbcf46bc6c12f529edc384131"
+    },
+    {
+      "path": "src/assets/back-icon@1.5x.android.png",
+      "sha1": "4792f50fc4ff55e0a46368f61ccf1e671da8f075"
+    },
+    {
+      "path": "src/assets/back-icon@1.5x.ios.png",
+      "sha1": "75e0ef2f2a571f3ee4417c6426a877432c787659"
+    },
+    {
+      "path": "src/assets/back-icon@1x.android.png",
+      "sha1": "7a0d9446a65e082960a01491ce1d87757866d813"
+    },
+    {
+      "path": "src/assets/back-icon@1x.ios.png",
+      "sha1": "91e2ce8b58a725d5ecd084522a75eaca15b9ec0c"
+    },
+    {
+      "path": "src/assets/back-icon@2x.android.png",
+      "sha1": "881b491c25ea2677b571ca171b3dc535d5245f01"
+    },
+    {
+      "path": "src/assets/back-icon@2x.ios.png",
+      "sha1": "ad2bc6f26e2e3cc488b4872c205f8ddad0c90fc5"
+    },
+    {
+      "path": "src/assets/back-icon@3x.android.png",
+      "sha1": "f6274ce93dfa999ea698d97f48cf72034d3cd950"
+    },
+    {
+      "path": "src/assets/back-icon@3x.ios.png",
+      "sha1": "f24146f15bfb1dfaf0e3255c16b85485b1e27810"
+    },
+    {
+      "path": "src/assets/back-icon@4x.android.png",
+      "sha1": "185ebe3c181b720dbcf46bc6c12f529edc384131"
+    },
+    {
+      "path": "src/assets/back-icon@4x.ios.png",
+      "sha1": "f5003ff861708e22e3956eff097e279e2b43af19"
+    }
+  ]
+}
